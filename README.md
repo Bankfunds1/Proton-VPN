@@ -77,10 +77,11 @@ Navigate to **Settings > Connection** to select a VPN protocol:
 
 - **Ad and Tracker Blocking**: Enable **NetShield** to block ads, trackers, and malware while browsing.  
 - **Secure Core**: Double encryption for maximum privacy—your traffic first goes through privacy-friendly countries before reaching its destination.  
+- **DNS Leak Protection**: Ensures your DNS queries are securely routed through Proton VPN, protecting your online activity from leaks.
 
 ---
 
-### Troubleshooting Tips
+## Troubleshooting Tips
 
 - **Connection Issues**: If Proton VPN isn’t connecting, try restarting the app or changing to a different server.
 - **Slow Speeds**: Try switching to a less crowded server or using WireGuard protocol for faster speeds.
@@ -91,7 +92,53 @@ For more information, you can visit the official Proton VPN [Support Page](https
 
 ---
 
+## FAQ
+
+**Q: How do I cancel my subscription?**  
+A: You can cancel your Proton VPN subscription directly from the Proton VPN app or by visiting your account page. If you need a refund, please contact Proton Support within 30 days.
+
+**Q: Why is my connection slow?**  
+A: Proton VPN may be slower depending on the server you are connected to. Try switching to a different server or use the **WireGuard** protocol for improved speed.
+
+**Q: Can I use Proton VPN on multiple devices?**  
+A: Yes! Proton VPN supports multiple devices, and you can connect up to 10 devices with a single subscription plan.
+
+**Q: What is the difference between Free and Plus servers?**  
+A: **Free servers** are limited in terms of locations and speeds. **Plus servers** offer faster speeds, better performance for streaming, and additional server locations.
+
+---
+
+## System Requirements
+
+### Minimum Requirements:
+- **Operating System**: Windows 8 or later
+- **Processor**: 1.2 GHz or faster
+- **RAM**: 2 GB or more
+- **Disk Space**: 200 MB of free space
+
+### Recommended Requirements:
+- **Operating System**: Windows 10 or later
+- **Processor**: 2.0 GHz dual-core or higher
+- **RAM**: 4 GB or more
+- **Disk Space**: 500 MB or more
+
+---
+
+## Contact Support
+
+If you need further assistance or encounter issues that you cannot resolve through troubleshooting, you can contact Proton VPN Support through the following methods:
+
+- **Support Page**: [Proton VPN Support](https://protonvpn.com/support)
+- **Email**: [support@protonvpn.com](mailto:support@protonvpn.com)
+- **Live Chat**: Available on the Proton VPN website for immediate assistance.
+
+---
+
 ## License
 
 This guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share, remix, and adapt the content as long as you provide proper attribution to the original author.
+
+---
+
+For more information and updates, check the [official Proton VPN website](https://protonvpn.com/).
