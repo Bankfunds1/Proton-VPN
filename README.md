@@ -27,3 +27,43 @@ If you need access to more servers or advanced features, consider upgrading your
 All paid plans come with a **30-day money-back guarantee**.  
 To cancel and request a refund, please contact Proton Support within 30 days of subscribing.  
 See the [Terms and Conditions](https://proton.me/legal/terms?ref=pvpncom) for full details.
+
+---
+
+### 🌐 Server Types
+
+- **Free Servers** – Limited locations, available without a subscription.  
+- **Plus Servers** – Faster speeds and streaming support *(requires a subscription)*.  
+- **Secure Core** – Routes your traffic through multiple servers for enhanced privacy.  
+- **P2P Servers** – Optimized for file sharing and torrenting.
+
+---
+
+### VPN Protocols
+
+Navigate to **Settings > Connection** to select a VPN protocol:
+- **WireGuard** *(Recommended for speed and stability)*
+- **OpenVPN**
+- **IKEv2**
+
+---
+
+### Kill Switch & Always-On
+
+- **Kill Switch**: Blocks all internet traffic if the VPN connection drops.  
+- **Always-On VPN**: Automatically reconnects the VPN and maintains protection after reboot.
+
+---
+
+### Split Tunneling (Windows & Android)
+
+- Allows you to exclude specific apps or IP addresses from the VPN tunnel.  
+- Useful for accessing local services while still protecting other traffic.
+
+---
+
+### Auto Connect
+
+- Enable **Auto Connect** to automatically connect to your preferred server when Proton VPN starts.
+
+
