@@ -30,7 +30,7 @@ See the [Terms and Conditions](https://proton.me/legal/terms?ref=pvpncom) for fu
 
 ---
 
-### 🌐 Server Types
+### Server Types
 
 - **Free Servers** – Limited locations, available without a subscription.  
 - **Plus Servers** – Faster speeds and streaming support *(requires a subscription)*.  
