@@ -17,6 +17,7 @@ Select your device (Windows).
 3. Complete the installation process.
 4. Once Proton VPN is launched, you’ll be prompted to **sign up** or **log in**.
    - Use your personal or work email address and a secure password to continue.
+   - If you do not have a password or wish to use a secure one you can use the Proton Password Generator https://proton.me/pass/password-generator
 
 ## How to Use Proton VPN
 
