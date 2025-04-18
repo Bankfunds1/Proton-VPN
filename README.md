@@ -26,4 +26,4 @@ If you need access to more servers or advanced features, consider upgrading your
 
 All paid plans come with a **30-day money-back guarantee**.  
 To cancel and request a refund, please contact Proton Support within 30 days of subscribing.  
-See the [Terms and Conditions](https://protonvpn.com/terms) for full details.
+See the [Terms and Conditions](https://proton.me/legal/terms?ref=pvpncom) for full details.
