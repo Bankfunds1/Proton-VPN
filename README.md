@@ -16,4 +16,14 @@ Select your device (Windows).
 2. The installer will create a desktop shortcut for easier access.
 3. Complete the installation process.
 4. Once Proton VPN is launched, you’ll be prompted to **sign up** or **log in**.
-   - Use your personal or work email address and a secure password to proceed.
+   - Use your personal or work email address and a secure password to continue.
+
+## How to Use Proton VPN
+
+Once you're logged in, you can connect to any of the **five free servers** available.  
+If you need access to more servers or advanced features, consider upgrading your plan:  
+[https://proton.me/pricing](https://proton.me/pricing)
+
+All paid plans come with a **30-day money-back guarantee**.  
+To cancel and request a refund, please contact Proton Support within 30 days of subscribing.  
+See the [Terms and Conditions](https://protonvpn.com/terms) for full details.
